@@ -1,5 +1,5 @@
 ---
-name: New template request
+name: Template request
 about: Request a new template that we need to add to this repo.
 title: New Template
 labels: new template
