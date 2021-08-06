@@ -7,3 +7,4 @@
 3. A seperate `readme.md` file should be provided explaining all the ins and outs of the template.
 4. Tech stack can be of your choice. But it should be mentioned in the `readme.md` file.
 5. Proper instructions should be given to run the template in local environment.
+6. There are different projects seperated by tech stack while doing a PR or raising issues, link the projects with the PRs and issues so that anyone can understand which project the specific PR or issue belongs to
